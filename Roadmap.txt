@@ -1,0 +1,6 @@
+Ideen für weitere Features:
+-Verschiedene Klassen, mit speziellen Stat Modifiern und eigenen Moves
+-ggf Moves für Monster
+-NPC
+-Items, Shop
+-ggf Modes(sterben ingame erlauben)
